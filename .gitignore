@@ -1,0 +1,16 @@
+# Bases de datos y archivos de datos
+data/*.db
+*.db
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Reportes personales
+resumen_jornada.txt
+
+# Carpetas de VS Code u otros editores
+.history/
+.vscode/
+
+.env
